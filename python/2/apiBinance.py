@@ -355,5 +355,5 @@ class apiBinance():
             return False
         return False
 
-# ~ https://binance-docs.github.io/apidocs/spot/en/
 
+# ~ https://binance-docs.github.io/apidocs/spot/en/

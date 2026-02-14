@@ -318,4 +318,5 @@ class apiDovewallet:
 				self.debug_log('code: 290. Send order false')
 			return False
 
+
 #~ https://developer.dovewallet.com/api/v1/

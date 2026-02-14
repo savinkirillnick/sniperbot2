@@ -296,4 +296,5 @@ class apiYobit:
 				self.debug_log('code: 290. Send order false')
 			return False
 
+
 #~ https://yobit.net/ru/api/

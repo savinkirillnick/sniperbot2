@@ -68,3 +68,4 @@ class Errors:
         else:
             self.data_send = True
             return self.data[str(self.num)] + ' ' + str(self.error_exception)
+

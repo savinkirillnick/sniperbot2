@@ -308,4 +308,5 @@ class apiTidex:
 				self.debug_log('code: 290. Send order false')
 			return False
 
+
 #~ https://tidex.com/services/api-specification

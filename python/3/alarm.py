@@ -36,3 +36,4 @@ class Alarm:
         data['chat_id'] = self.chat_id
         data['token'] = self.token
         return data
+

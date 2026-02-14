@@ -372,4 +372,5 @@ class apiKucoin:
 			return False
 		return False
 
+
 #~ https://docs.kucoin.com/

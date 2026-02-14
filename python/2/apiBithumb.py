@@ -381,6 +381,6 @@ class apiBithumb:
 				#~ print(time.strftime('%m/%d %H:%M ', time.localtime()) + 'code: 290')
 				self.debug_log('code: 290. Send order false')
 			return False
-		
-#~ https://apidocs.bithumb.com/
 
+
+#~ https://apidocs.bithumb.com/

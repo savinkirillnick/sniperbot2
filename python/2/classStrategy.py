@@ -73,4 +73,3 @@ class Strategy():
         self.buy_lot = buy_lot if buy_lot < depo_avail else depo_avail
         self.sell_lot = sell_lot if sell_lot < self.depo_ex else self.depo_ex
 
-

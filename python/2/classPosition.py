@@ -44,3 +44,4 @@ class Position:
         if round(self.qty, 8) <= 0:
             self.reset()
         return 0
+

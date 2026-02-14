@@ -334,4 +334,5 @@ class apiCex:
 				self.debug_log('code: 290. Send order false')
 			return False
 
+
 #~ https://cex.io/rest-api

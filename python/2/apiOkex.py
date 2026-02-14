@@ -340,4 +340,5 @@ class apiOkex:
                 self.debug_log('code: 290. Send order false')
             return False
 
+
 # ~ https://www.okex.com/docs/en/

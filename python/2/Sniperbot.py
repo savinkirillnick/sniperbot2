@@ -1443,4 +1443,3 @@ root.geometry("800x470+300+200")
 root.resizable(False, False)
 root.mainloop()
 
-

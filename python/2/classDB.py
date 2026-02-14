@@ -128,3 +128,4 @@ class DB:
         if self.access_time > time():
             row = self.query('settings.db', 'SELECT * FROM alarm_settings WHERE exchange=? AND pair=?', (exchange, pair))
             return json.loads(row[0][3]) if row != [] else dict()
+

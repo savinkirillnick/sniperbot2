@@ -38,3 +38,4 @@ class TrailingStop():
     def reset(self):
         self.max_price = 0.0
         self.kline = list()
+
