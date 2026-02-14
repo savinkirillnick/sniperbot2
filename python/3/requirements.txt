@@ -1,0 +1,3 @@
+# для запуска нужно скачать https://github.com/ccxt/ccxt/tree/master/python/ccxt
+# папку ccxt положить в корневую папку сурсов.
+ccxt
